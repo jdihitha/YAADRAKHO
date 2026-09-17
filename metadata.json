@@ -1,0 +1,6 @@
+{
+  "name": "YAADRAKHO - Ganesh Chaturthi Memory Game",
+  "description": "A festive Ganesh Chaturthi memory challenge where every card can change. Watch, remember, and find before Mushak tricks you!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
